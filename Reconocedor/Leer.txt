@@ -1,0 +1,5 @@
+Si quieren capturar Rostros de un video para su DATA, procuren usar un video corto.
+
+
+...Archivo capaocultaentrenamiento.py... ENTRENAR SU DATA 
+Les quedara un archivo.xml

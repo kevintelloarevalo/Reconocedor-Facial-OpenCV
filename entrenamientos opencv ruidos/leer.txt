@@ -1,0 +1,1 @@
+En esta carpeta hay modelos de ruidos, para que la IA no piense que los demas objetos son caras
